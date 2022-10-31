@@ -12,3 +12,7 @@
 
 ##### 페이지 예시는 아래의 링크를 통해 확인해주세요.
 [Figma](https://www.figma.com/proto/FT9D9KVaeLOzobCJNXc9LL/Starbucks?node-id=107%3A174&scaling=scale-down-width&page-id=107%3A173&starting-point-node-id=107%3A174)
+
+
+##### On Serving !
+[URL] (http://1.236.199.7/)
